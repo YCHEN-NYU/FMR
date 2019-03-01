@@ -11,4 +11,4 @@
 ![Image](https://github.com/YCHEN-NYU/FMR/blob/master/ui-LabVIEW/LabVIEW_UI.jpeg)
 
 **PPMS-VNA setups**: Hardware setup for PPMS-FMR probes for thin film FMR experiments.
-![Image](https://github.com/YCHEN-NYU/FMR/blob/master/setup-hardware/PPMS-VNA%20setup.jpeg);
+![Image](https://github.com/YCHEN-NYU/FMR/blob/master/setup-hardware/PPMS-VNA%20setup.jpeg).
