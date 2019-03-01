@@ -1,4 +1,4 @@
-# Fitting of frerromagnetic resonance (FMR [Link](https://en.wikipedia.org/wiki/Ferromagnetic_resonance)) data by Lorentzian model
+# Fitting of frerromagnetic resonance ([FMR](https://en.wikipedia.org/wiki/Ferromagnetic_resonance)) data by Lorentzian model
 
 **Input Data**: FMR Spectrum as a function of the applied magnetic field, microwave frequency and temperature.
 
