@@ -21,7 +21,7 @@ Oe_to_Tesla = 10000;
 folder = pwd;
 
 % read all data file ended with *MHz.dat in the current folder
-input_folder = '../data/';
+input_folder = '../../data/';
 % input_folder = pwd;
 cd '../data';
 files = dir('*MHz.dat');
